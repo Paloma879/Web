@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: #FAAB78;
+}
+.inicio{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.central{
+    margin-top: 4%;
+    margin-left: 2%;
+    margin-right: 2%;
+    
+}
